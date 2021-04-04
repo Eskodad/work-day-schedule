@@ -24,7 +24,7 @@ This app is using API moment.js
 ##### LINKS:
 
 
-## [GitHub Work_Day_Scheduler Repo](xxxxxxxxxxxxxxxxxxxxxxx)
+## [GitHub Work_Day_Scheduler Repo](https://github.com/Eskodad/work-day-schedule)
 
 ## [Work_Day_Scheduler Website](https://eskodad.github.io/work-day-schedule/.)
 
