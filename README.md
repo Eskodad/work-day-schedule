@@ -8,7 +8,7 @@ This app runs in the browser and features dynamically updated HTML and CSS
 powered by jQuery.
 This app is using API moment.js
 
-#### CODING PLATFORMS USED:
+### CODING PLATFORMS USED:
 
 - HTML
 - CSS
@@ -27,16 +27,12 @@ Landing Page
 ### LINKS:
 
 
-## Github Repo URL = https://github.com/Eskodad/work-day-schedule
+#### Github Repo URL = https://github.com/Eskodad/work-day-schedule
 
 
-## Website URL = https://eskodad.github.io/work-day-schedule/
+#### Website URL = https://eskodad.github.io/work-day-schedule/
 
----
-
-#### CONTRIBUTION:
+### CONTRIBUTION:
 
 Made with ❤️ by
 [Sahr Koroma]
-
-# work-day-schedule
