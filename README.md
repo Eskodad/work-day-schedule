@@ -18,8 +18,11 @@ This app is using API moment.js
 - BOOTSTRAP
 
 #### SCREENSHOTS:
+Top Page
+![Top Page](./assets/images/top-page.png)
 
-## ![Scheduler Main Page](./assets/images/image1.png)
+Landing Page
+![Landing Page Page](./assets/images/landing-page.png)
 
 ##### LINKS:
 
